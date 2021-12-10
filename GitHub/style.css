@@ -1,0 +1,28 @@
+body
+{
+  background: purple;
+  background: linear-gradient(to right, purple);
+  color: white;
+  font-family: Georgia, Verdana;
+  //text-shadow: 2px 2px purple;
+}
+
+#container
+{
+  border: 2px dotted white;
+  background-color:;
+  margin: 20px;
+  padding: 10px;
+}
+
+#fortune
+{
+  border: 2px solid white;
+  background-color: darkslateblue;
+  padding: 20px;
+}
+
+h1
+{
+  text-shadow:3px 3px purple;
+}
